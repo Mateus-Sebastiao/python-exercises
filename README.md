@@ -1,6 +1,6 @@
 Repositório de exercícios de prática em Python, organizado por temas fundamentais.
 
-Este projeto tem o objetivo de consolidar a prática da linguagem Python, com foco na aplicação de conceitos essenciais para programação, automação, administração de sistemas e desenvolvimento de software.
+Este projeto tem o objetivo de consolidar a prática da linguagem Python, com foco na aplicação de conceitos essenciais para programação, automação, administração de sistemas e desenvolvimento de software. Cada script que contém neste repositório, está detalhadamente comentado para melhor compreensão e utilização, faça bom uso!
 
 ## Estrutura do Repositório
 
