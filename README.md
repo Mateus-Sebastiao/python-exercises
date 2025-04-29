@@ -38,5 +38,5 @@ Acesse o tema desejado:
 
 ```bash
 cd lists
-python3 exercise1.py
+python3 main.py
 ```
