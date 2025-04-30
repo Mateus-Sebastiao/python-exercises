@@ -17,10 +17,6 @@ def main():
     frutas = {'maçã', 'banana', 'laranja'}
     print(f"Conjunto inicial: {frutas}\n")
 
-    # Acessando um item específico do conjunto
-    
-    # Mudando o valor de um item específico do conjunto
-    
     # Percorrendo o conjunto
     print("Percorrendo o Conjunto:")
     for fruta in frutas:
